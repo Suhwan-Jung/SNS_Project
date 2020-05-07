@@ -1,6 +1,6 @@
 # SNS_Project
 
-This Project has done by me for "Cheil idea Festival". I started this project to find some insight in SNS(Youtube, Instagram)
+This Project has done by myself for "Cheil idea Festival". I started this project to find some insight in SNS(Youtube, Instagram)
 
 ## Crawler 
 
